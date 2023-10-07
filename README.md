@@ -44,3 +44,23 @@ If you want to run this project locally, you can follow these steps:
 
    ```bash
    git clone https://github.com/swetamishra123/To-Do-List.git
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd To-Do-List
+
+3. Open the [index.html](index.html) file in your web browser.
+
+## Contributing
+Contributions are welcome! If you'd like to improve this project, please follow these steps:
+
+1. Fork the project.
+2. Create a new branch for your feature or bugfix: git checkout -b feature-name.
+3. Make your changes and commit them: git commit -m 'Add new feature'.
+4. Push to your fork: git push origin feature-name.
+5. Open a pull request to the main repository.
+
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
